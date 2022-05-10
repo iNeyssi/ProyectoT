@@ -1,0 +1,62 @@
+[
+    {
+        "model": "store.product",
+        "pk": 1,
+        "fields": {
+        "image_path": " https://assets.tuzonamarket.com/images/producto/fAPeeyNMkJ.jpg",
+        "title": "Clorace x 10 Cápsulas",
+        "description": "Antigripal para el tratamiento sintomático delresfriado común. ",
+        "price": 4.00
+        }
+    },
+    {
+        "model": "store.product",
+        "pk": 2,
+        "fields": {
+        "image_path": " https://kiwimercado.com/wp-content/uploads/Atamel.jpg.webp",
+        "title": "Atamel Forte 650 mg x 10 Tabletas",
+        "description": "Analgésico, antipirético. Dolor, fiebre y malestar general.",
+        "price": 5.00
+        }
+    },
+    {
+        "model": "store.product",
+        "pk": 3,
+        "fields": {
+        "image_path": " https://medexfarmacia.com/storage/files/2256/productos/fotos/68415/06f449c2178b2b785d53620fab1f5f92.jpeg",
+        "title": "Teragrip Forte 24h x 10 Tabletas",
+        "description": "Antigripal para el tratamiento sintomático del resfriado común.",
+        "price": 3.00
+        }
+    },
+    {
+        "model": "store.product",
+        "pk": 4,
+        "fields": {
+        "image_path": "https://www.farmapana.com/3937-large_default/diclofenacopotasico-calox.jpg",
+        "title": "Diclofenac Potásico Calox 50 mg x 20 Tabletas",
+        "description": "Antiinflamatorio no esteroideo",
+        "price": 5.00
+        }
+    },
+    {
+        "model": "store.product",
+        "pk": 5,
+        "fields": {
+        "image_path": " https://www.farmago.com.ve/wp-content/uploads/2020/12/imagen46-01-16.png",
+        "title": "Dencorub Gel x 80 gr",
+        "description": "Analgésico tópico",
+        "price": 7.00
+        }
+    },
+    {
+        "model": "store.product",
+        "pk": 6,
+        "fields": {
+        "image_path": " https://www.farmago.com.ve/wp-content/uploads/2020/12/imagen46-01-16.png",
+        "title": "Dencorub Gel x 40 gr",
+        "description": "Analgésico tópico",
+        "price": 5.00
+        }
+    }
+    ]
